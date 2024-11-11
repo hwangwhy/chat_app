@@ -1,6 +1,6 @@
 # chat_app_basic
 
-A new Flutter project. Highly appriciate to Mr Maximillian with your course help me really much on this app
+A new Flutter project. Highly appriciate to Mr Maximillian with your course help me really much on this app.
 
 ## Getting Started
 
